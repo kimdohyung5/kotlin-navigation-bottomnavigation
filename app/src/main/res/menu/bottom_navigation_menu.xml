@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/frame_search"
+        android:title="search"
+        android:icon="@drawable/ic_baseline_search_24"
+
+        />
+    <item
+        android:id="@+id/frame_favorite"
+        android:title="favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        />
+    <item
+        android:id="@+id/frame_settings"
+        android:title="settings"
+        android:icon="@drawable/ic_baseline_app_settings_alt_24"
+        />
+
+</menu>
